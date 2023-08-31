@@ -1,9 +1,9 @@
 (librepcb_device 09214b77-dd18-43c2-ade6-92e293c19fb2
- (name "UJC-HP-3-SMT-TR")
+ (name "CUI UJC-HP-3-SMT-TR")
  (description "Type C, 3 A, Right Angle, Surface Mount (SMT), Power Only 6-Pin USB Receptacle")
  (keywords "usb,type-c,power-only")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2020-06-06T23:53:25Z)
  (deprecated false)
  (generated_by "")
@@ -20,4 +20,6 @@
  (pad c20f7ac4-55fa-4067-b6bb-804a02d303d4 (signal a41c894e-0d61-4fa5-a141-9d92c4e6c339))
  (pad c25763cd-0d1a-47af-a036-f000d44f81e0 (signal 0148eb05-e599-4187-9e16-4f8446d46e18))
  (pad f7567b62-ba7f-4b4e-a928-7812d1da40c1 (signal 41617ae9-3b5d-4379-9676-789174469b98))
+ (part "UJC-HP-3-SMT-TR" (manufacturer "CUI Devices")
+ )
 )
